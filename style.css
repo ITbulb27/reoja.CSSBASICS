@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(77, 47, 9);
+    padding: 60px;
+    text-align: center;
+    
+}
+nav ul{
+    padding:20px;
+margin: 0px;
+list-style: none;
+justify-content: center;
+display: flex;
+}
+nav li{
+padding-right: 0%;
+padding-left: 0%;
+}
+
+
+
+nav a {
+color: green;
+text-decoration: none
+; margin: 0 1rem;
+}
+
+p.color {
+    color:rgb(77,47,4);
+line-height: 1;
+
+}
+p {
+    padding-left: 2%;
+}
+
+main{
+    background-color: rgb(170,111,34);
+    
+}
+
+footer{
+    text-align: center;
+  color:black;
+  padding-bottom: 0.5%;
+}
